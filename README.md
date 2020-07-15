@@ -1,4 +1,4 @@
-# quarkus-demo project
+# HappyDeveloper Quarkus Demo
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
